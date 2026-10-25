@@ -16,3 +16,9 @@ h3 {
     color: rgb(220, 220, 145);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+
+.grid2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+}
