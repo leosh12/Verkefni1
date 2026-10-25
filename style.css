@@ -1,11 +1,10 @@
 body {
     background-color: black;
-}
-
-p {
     color: rgb(187, 187, 96);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    transition: background-color 0.5s, color 0.5s;
 }
+
 
 h3 {
     color: rgb(160, 161, 148);
