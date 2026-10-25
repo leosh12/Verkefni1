@@ -24,6 +24,10 @@ h3 {
     gap: 20px;
 }
 
+body.light-mode {
+    background-color: white;
+}
+
 body.light-mode .title  {
     color: black;
 }
